@@ -2,6 +2,11 @@
 
 **Universal semantic reset artifacts for language model context management**
 
+[![RSR Compliance](https://img.shields.io/badge/RSR-Platinum-9cf?style=flat-square)](https://github.com/Hyperpolymath/llm-antidote)
+[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)](./VERSION)
+[![TPCF](https://img.shields.io/badge/TPCF-Perimeter_3-green?style=flat-square)](./MAINTAINERS.md)
+
 ## Overview
 
 `llm-antidote` is a collection of tools and artifacts designed to manage, reset, and manipulate LLM context across multiple platforms. The project explores the boundaries of language model behavior through minimal, symbolic interventions.

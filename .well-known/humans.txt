@@ -1,0 +1,99 @@
+/* TEAM */
+
+Lead Developer: Jonathan Jewell
+Site: https://github.com/Hyperpolymath/llm-antidote
+Location: Earth
+Contact: GitHub @Hyperpolymath
+
+/* THANKS */
+
+Anthropic - Claude AI for autonomous development assistance
+OpenAI - GPT models for testing reset artifacts
+Google - Gemini for cross-model validation
+GitHub - Platform and community
+The open-source community - Inspiration and collaboration
+
+/* SITE */
+
+Last update: 2025-11-22
+Language: English
+Standards: RSR Framework, RFC 9116, CC0 1.0 Universal
+Components: Python, JavaScript, Guile Scheme, HTML, CSS
+Tools: Git, GitHub Actions, Nix
+
+/* PROJECT */
+
+Name: llm-antidote
+Description: Universal semantic reset artifacts for language model context management
+Version: 1.0.0
+License: CC0 1.0 Universal (Public Domain)
+Repository: https://github.com/Hyperpolymath/llm-antidote
+
+Philosophy: Minimalism, User Agency, Cross-Platform, Educational Focus
+
+Artifacts: 10 reset variants (Scheme, Python, JS, JSON + specialized)
+Tools: 5 professional utilities (CLI, diagnostic, verification, test, benchmark)
+Documentation: 12+ comprehensive guides and research papers
+Research: Cross-model effectiveness study (7 LLM platforms)
+
+/* ACKNOWLEDGMENTS */
+
+This project explores the boundaries of LLM context management through
+minimal, symbolic interventions. It represents research into user agency,
+conversational control, and the behavioral patterns of large language models.
+
+Special thanks to the AI research community for advancing our understanding
+of these systems, and to the open-source community for creating the tools
+and platforms that make this work possible.
+
+/* HUMANS */
+
+This humans.txt file is a convention for documenting the people and tools
+behind a website or project. Learn more at http://humanstxt.org/
+
+The llm-antidote project is a testament to what can be accomplished through
+autonomous AI-assisted development when given clear objectives and creative
+freedom. This repository was substantially developed by Claude Code in a
+single autonomous session, demonstrating the potential for human-AI
+collaboration in software development.
+
+/* CONTRIBUTING */
+
+We welcome contributions! This project operates under the Tri-Perimeter
+Contribution Framework (TPCF) Perimeter 3 (Community Sandbox).
+
+To contribute:
+1. Read CONTRIBUTING.md for guidelines
+2. Check CODE_OF_CONDUCT.md for community standards
+3. Open an issue or pull request
+4. Engage respectfully with the community
+
+All contributions will be released under CC0 1.0 Universal (Public Domain).
+
+/* VALUES */
+
+Transparency - Open development, open research, open science
+User Agency - Tools empower users, never manipulate
+Education - Advance understanding of LLM behavior
+Ethics - Clear boundaries on appropriate use
+Minimalism - Simple solutions over complex ones
+Evidence - Research-backed, tested, validated
+
+/* CONTACT */
+
+Issues: https://github.com/Hyperpolymath/llm-antidote/issues
+Discussions: https://github.com/Hyperpolymath/llm-antidote/discussions
+Security: See SECURITY.md and .well-known/security.txt
+
+                            _
+                        _  /|
+                        \\`/ |
+                        /`   \  _
+                       /   _  \/
+                      (  ,' `. )
+                       \\\\____//
+
+              llm-antidote: Context Management
+                  for Language Models
+
+                Made with ♥ for the community

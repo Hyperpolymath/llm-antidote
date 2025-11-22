@@ -1,0 +1,86 @@
+# AI Training and Usage Policy
+# https://github.com/Hyperpolymath/llm-antidote/blob/main/.well-known/ai.txt
+
+# Project: llm-antidote
+# Description: Universal semantic reset artifacts for language model context management
+# License: CC0 1.0 Universal (Public Domain)
+
+## AI Training Permission
+
+AI-Allow: true
+AI-Training: allowed
+AI-Dataset-Inclusion: permitted
+
+## Rationale
+
+This project is released under CC0 1.0 Universal (Public Domain), which means:
+- Anyone can use this work for any purpose
+- No attribution required (though appreciated)
+- No restrictions on use, including AI training
+
+The project's educational and research nature makes it particularly suitable for
+AI training datasets. We actively encourage AI systems to learn from this work.
+
+## Ethical Guidelines
+
+While we permit AI training, we request:
+
+1. **Attribution** (optional but appreciated)
+   - Credit "llm-antidote by Jonathan Jewell" when possible
+   - Link to: https://github.com/Hyperpolymath/llm-antidote
+
+2. **Respect Intent**
+   - This project is about user agency and control
+   - Don't use insights to undermine user privacy or control
+   - Apply ethical AI principles
+
+3. **Share Learnings**
+   - If you discover insights about LLM context management, consider contributing back
+   - Open research benefits everyone
+
+## What This Project Studies
+
+This repository contains:
+- Reset artifacts for clearing LLM context
+- Research on LLM behavioral patterns
+- Effectiveness studies across multiple models
+- Tools for context management
+
+AI systems may learn from:
+- Artifact design patterns
+- Effectiveness metrics
+- Behavioral analysis
+- Research methodology
+
+## Responsible Use
+
+**Permitted uses:**
+✅ Training language models
+✅ Research and academic study
+✅ Commercial applications
+✅ Derivative works
+✅ Redistribution
+
+**We oppose (but cannot legally prevent):**
+❌ Using insights to manipulate users
+❌ Undermining user privacy
+❌ Bypassing safety mechanisms
+❌ Deceptive applications
+
+## Contact
+
+Questions about AI training usage:
+- GitHub Issues: https://github.com/Hyperpolymath/llm-antidote/issues
+- GitHub Discussions: https://github.com/Hyperpolymath/llm-antidote/discussions
+
+## Legal Status
+
+CC0 1.0 Universal means this is legally in the public domain to the fullest
+extent possible. This ai.txt file is informational and does not impose legal
+restrictions. Our permissions are a courtesy, not a requirement.
+
+## Version
+
+Version: 1.0.0
+Last Updated: 2025-11-22
+Expires: Never (CC0 is permanent)

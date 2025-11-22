@@ -1,0 +1,17 @@
+# security.txt
+# RFC 9116 compliant security contact information
+# https://securitytxt.org/
+
+Contact: https://github.com/Hyperpolymath/llm-antidote/security/advisories/new
+Expires: 2026-11-22T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://github.com/Hyperpolymath/llm-antidote/blob/main/.well-known/security.txt
+
+# Security Policy
+Policy: https://github.com/Hyperpolymath/llm-antidote/blob/main/SECURITY.md
+
+# Acknowledgments
+Acknowledgments: https://github.com/Hyperpolymath/llm-antidote/blob/main/SECURITY.md#acknowledgments
+
+# Encryption
+# No PGP key currently - use GitHub private security advisories for sensitive reports
